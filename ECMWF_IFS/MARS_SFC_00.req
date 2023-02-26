@@ -1,0 +1,13 @@
+retrieve,
+class     = od,
+stream    = oper,
+type      = fc,
+expver    = 0001,
+date      = 20221223,
+time      = 00,
+step      = 0/to/72/by/3,
+levtype   = sfc,
+param     = 129.128/165.128/166.128/167.128/168.128/172.128/134.128/151.128/235.128/31.128/34.128/141.128/139.128/170.128/183.128/236.128/39.128/40.128/41.128/42.128/ssrd/33.128,
+grid      = 0.1/0.1,
+area=50/5/10/80, #Israel N/W/S/E area
+target   = "/home/eranlab/HU_WRF/_SFC_[DATE]_[TIME]_israel.grb"
