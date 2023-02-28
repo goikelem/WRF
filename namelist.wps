@@ -27,7 +27,7 @@
  stand_lon                  = 34.867,
  ref_x                      = 242.5,
  ref_y                      = 216.5,
- geog_data_path             = '/home/eranlab/uems/data/geog'
+ geog_data_path             = '/home/eranlab/ETL_WRF/WPS_GEOG'
  /
 
 &ungrib
